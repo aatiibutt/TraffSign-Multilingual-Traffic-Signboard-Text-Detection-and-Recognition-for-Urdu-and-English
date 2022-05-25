@@ -23,7 +23,7 @@ This is a Pytorch implementation of Text recognition part of the paper.
 ### Downloads
 The following files must be downloaded for successful setup.
 1. **Dataset**
-    Please download the Traffsign text recognition dataset from our google drive link.
+    Please download the Traffsign text recognition dataset from our google drive [link](https://drive.google.com/drive/folders/1O_m9rAdiojQwlexZmN0bkHsmWByxpkGE?usp=sharing).
     After completion, put the downloaded folders in `data/mnt/ramdisk/max/90kDICT32px/` directory.
 2. **pretrained Model**: 
 	  Please download the pretrained model from our google drive link and put into `checkpoints/`.
