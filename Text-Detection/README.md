@@ -20,7 +20,7 @@ This is a Pytorch implementation of Text detection part of the paper.
 ### Downloads
 The following files must be downloaded for successful setup.
 1. **Dataset**
-    Please download the Traffsign dataset from our google drive link.
+    Please download the Traffsign dataset from our google drive [link](https://drive.google.com/drive/folders/1Z4oMlx-_vOX9xzrYw4hLiEBYjequ32UK?usp=sharing).
     After completion, put the training and test folders in `dataset` directory.
 2. **Backbone Network**:
 	  Please download the backbone model from our google drive link and put into `.\tmp\backbone_net`.
